@@ -81,7 +81,8 @@ figure {
   position: fixed;
   overflow-y: auto;
   z-index: 1001;
-  background: #f2f3f7;
+  /* background: #f2f3f7; */
+  background:#e4e4e4;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
